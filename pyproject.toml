@@ -1,0 +1,7 @@
+[project]
+name = "study-cifar"
+version = "0.1.0"
+description = "building some neural networks"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
