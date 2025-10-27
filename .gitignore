@@ -1,0 +1,9 @@
+# environment files
+.venv/
+
+
+# cache files
+__pycache__/
+
+# dataset files
+data/
